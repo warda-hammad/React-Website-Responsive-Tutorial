@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Website-Responsive-Tutorial/static/css/main.d95621b3.css",
+    "main.js": "/React-Website-Responsive-Tutorial/static/js/main.45bf83c6.js",
+    "index.html": "/React-Website-Responsive-Tutorial/index.html",
+    "main.d95621b3.css.map": "/React-Website-Responsive-Tutorial/static/css/main.d95621b3.css.map",
+    "main.45bf83c6.js.map": "/React-Website-Responsive-Tutorial/static/js/main.45bf83c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95621b3.css",
+    "static/js/main.45bf83c6.js"
+  ]
+}
